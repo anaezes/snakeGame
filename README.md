@@ -1,0 +1,3 @@
+# snakeGame
+
+Personal project 
